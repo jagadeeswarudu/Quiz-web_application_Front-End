@@ -69,9 +69,9 @@ let questions = [
   },
   {
     numb: 8,
-    question: "When was CodePen.io created?",
-    answer: "2012",
-    options: ["2013", "2012", "2009", "2010"]
+    question: "Who created the HTML?",
+    answer: "Tim Berners-Lee",
+    options: ["Håkon Wium Lie", "Tim Berners-Lee", "Brendan Eich", " Guido van Rossum"]
   },
   {
     numb: 9,
